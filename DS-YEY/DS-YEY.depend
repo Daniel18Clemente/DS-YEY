@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1702028162 source:c:\users\daniel clemente\desktop\folders\2nd year 1st sem\ds-yey\lodepng.cpp
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1702027990 c:\users\daniel clemente\desktop\folders\2nd year 1st sem\ds-yey\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1702436256 source:c:\users\daniel clemente\desktop\folders\2nd year 1st sem\ds-yey\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+	<vector>
+	<windows.h>
+	<conio.h>
+	"lodepng.h"
+	"qrcodegen.hpp"
+
+1702188026 c:\users\daniel clemente\desktop\folders\2nd year 1st sem\ds-yey\qrcodegen.hpp
+	<array>
+	<cstdint>
+	<stdexcept>
+	<string>
+	<vector>
+
+1701980284 source:c:\users\daniel clemente\desktop\folders\2nd year 1st sem\ds-yey\qrcodegen.cpp
+	<algorithm>
+	<cassert>
+	<climits>
+	<cstddef>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<utility>
+	"qrcodegen.hpp"
+
